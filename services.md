@@ -1,11 +1,23 @@
 ---
-title: Services
+title: Expertises
 layout: services
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# DOMAINES D’EXPERTISES
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Graphologie
+
+Nous réalisons les expertises de fausses écritures, fausses signatures, d une criture de rajout, de la d termination de l ge de l encre, d un cachet,  d un document administratif ou autre.
+
+Dactyloscopie
+
+C'est proc de la lecture des empreintes digitales en vue de d terminer si elles appartiennent ou non la personne qui elles sont attribu es Identification d un individu par empreinte digitale, recherche d empreinte digitale sur un support.
+
+Balistique
+
+L'expertise des caractéristiques de la balle et de sa trajectoire, lors d une investigation criminelle. A travers cette tude, nous arrivons non seulement identifier l arme qui a servi (num ro de s rie et calibre) et quelle distance la balle a t tire.
+
+
