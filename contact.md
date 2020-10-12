@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Nous contacter
 layout: contact
 bodyClass: page-contact
 ---
