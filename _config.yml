@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'BAEJI'
+title: 'BAEJI - BUREAU AFRIQUE D’EXPERTISES JUDICIAIRES ET D’INVESTIGATIONS'
 
 google_analytics_id: UA-166862695-2
 homepage:
@@ -14,14 +14,14 @@ footer:
   copyright_text: 'GaltresIT'
 
 seo:
-  meta_og_title: "Jekyll Serif Theme"
+  meta_og_title: "BUREAU AFRIQUE D’EXPERTISES JUDICIAIRES ET D’INVESTIGATIONS"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif-theme.netlify.app"
+  meta_og_url: "https://graphologie.ci"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-  meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_og_description: "Le Bureau Afrique d'Expertises Judiciaire et d'Investigation (BAEJI) spécialisé en graphologie: en charge des expertises des fausses écritures, fausse"
+  #meta_twitter_card: "summary"
+  #meta_twitter_site: "@zerostaticio"
+  #meta_twitter_creator: "@zerostaticio"
 
 collections:
   services:
