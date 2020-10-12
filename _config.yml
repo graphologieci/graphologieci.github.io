@@ -22,7 +22,12 @@ seo:
   #meta_twitter_card: "summary"
   #meta_twitter_site: "@zerostaticio"
   #meta_twitter_creator: "@zerostaticio"
-
+  
+  
+maps:
+  google:
+    api_key: AIzaSyC7DsQWw1gC_JnVRKzoiPuYe8FP0Xm2Bg0
+    
 collections:
   services:
     output: true
@@ -47,3 +52,4 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-maps
