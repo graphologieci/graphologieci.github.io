@@ -16,3 +16,7 @@ T: +225 0506-29 71 / +225 0794-9350 / +225 5505-4949
 | Friday    | 8:30am - 5:00pm |
 | Saturday  | Closed          |
 | Saturday  | Closed          |
+
+location:
+  latitude: 5.369185
+  longitude: -3.958837
