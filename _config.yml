@@ -52,3 +52,5 @@ sass:
 plugins:
   - jekyll-environment-variables
   - jekyll-maps
+  - jekyll-sitemap
+
