@@ -1,6 +1,9 @@
 ---
 title: Nous contacter
 layout: contact
+location:
+  latitude: 5.369185
+  longitude: -3.958837
 bodyClass: page-contact
 ---
 
@@ -17,6 +20,4 @@ T: +225 0506-29 71 / +225 0794-9350 / +225 5505-4949
 | Saturday  | Closed          |
 | Saturday  | Closed          |
 
-location:
-  latitude: 5.369185
-  longitude: -3.958837
+
