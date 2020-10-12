@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# BUREAU AFRIQUE D’EXPERTISES JUDICIAIRES ET D’INVESTIGATIONS
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Nous recherchons la vérité par la science au service de la justice. - Yao Koffi Bertin, Directeur Général. 
