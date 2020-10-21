@@ -9,7 +9,7 @@ homepage:
 logo:
   mobile: "images/logo/logo-400x400.png"
   desktop: "images/logo/logo-400x400.png"
-  desktop_height: "36px"
+  desktop_height: "136px"
 footer:
   copyright_text: 'GaltresIT'
 
