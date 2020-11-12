@@ -1,6 +1,6 @@
 ---
 title: Analyse Biologique
-date: {}
+date: 2018-11-28T05:15:34.000Z
 featured: true
 weight: 6
 published: true
