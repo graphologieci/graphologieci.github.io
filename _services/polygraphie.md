@@ -1,6 +1,6 @@
 ---
 title: Polygraphie
-date: {}
+date: 2018-11-28T05:14:39.000Z
 featured: true
 weight: 4
 published: true
