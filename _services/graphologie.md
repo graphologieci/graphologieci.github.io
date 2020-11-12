@@ -1,6 +1,6 @@
 ---
 title: Graphologie
-date: {}
+date: 2018-11-28T05:14:39.000Z
 featured: true
 weight: 1
 published: true
