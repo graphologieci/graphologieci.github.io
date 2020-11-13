@@ -1,6 +1,7 @@
 ---
 layout: default
 bodyClass: page-services-list
+published: true
 ---
 
 <div class="intro">
@@ -26,6 +27,7 @@ bodyClass: page-services-list
         <div class="service-content">
           <h2 class="service-title">
             <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
+            <div class="service-image"><img alt="{{ feature.title }}" src="{{ service.image | relative_url }}" /></div>
           </h2>
           <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
         </div>
@@ -34,3 +36,4 @@ bodyClass: page-services-list
     {% endfor %}
   </div>
 </div>
+          
