@@ -19,9 +19,6 @@ seo:
   meta_og_url: "https://graphologie.ci"
   meta_og_image: "https://raw.githubusercontent.com/graphologieci/graphologieci.github.io/master/images/logo-400x400.ico"
   meta_og_description: "Le Bureau Afrique d'Expertises Judiciaire et d'Investigation (BAEJI) spécialisé en graphologie: en charge des expertises des fausses écritures, fausse"
-  #meta_twitter_card: "summary"
-  #meta_twitter_site: "@zerostaticio"
-  #meta_twitter_creator: "@zerostaticio"
   
 maps:
   google:
