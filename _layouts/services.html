@@ -27,7 +27,6 @@ published: true
         <div class="service-content">
           <h2 class="service-title">
             <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
-            <div class="service-image"><img alt="{{ service.title }}" src="{{ service.image | relative_url }}" /></div>
           </h2>
           <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
         </div>
