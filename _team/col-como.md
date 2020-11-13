@@ -5,7 +5,6 @@ draft: false
 image: 
 promoted: true
 jobtitle: "Directeur du Bureau des Enqutes et Analyses"
-linkedinurl: ""
 weight: 7
 ---
 
